@@ -1,4 +1,4 @@
-# test-nuxt-typescript
+# nuxt-typescript-starter
 
 > Blank project setup with Nuxt, typescript, Jest, as well as properly configured eslint and prettier.
 
