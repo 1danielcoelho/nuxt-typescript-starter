@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+    ],
+    "settings": {
+        // This is required to have it work with nested projects. Needs to be on the workspace root
+        "eslint.workingDirectories": [
+            { "mode": "auto" }
+        ],
+    }
+}
